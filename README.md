@@ -1,5 +1,7 @@
 <h1>:cactus:Recriando Jogo Dinossaruro sem internet:cactus:</h1>
 
+<h2>Projeto desenvolvido para o Bootcamp Órbi Web Game Developer da DIO (Digital Innovation One).</h2>
+
 Neste projeto você terá o desafio de criar uma cópia do jogo do dinossauro, 
 famoso no Chrome por nos entreter quando estamos sem conexão. Nele iremos utilizar
 HTML, CSS e JavaScript, abordando de maneira simples diversos conceitos introdutórios 
